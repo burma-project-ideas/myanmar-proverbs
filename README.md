@@ -16,6 +16,9 @@ Summary
 2. ၎င်းဖော်ပြထားသော ဇယားမှ အက္ခရာတစ်ခုကို ရွေးချယ်လိုက်ပါက ထိုအက္ခရာနှင့် သက်ဆိုင်သော စကားပုံများကို ပြပေးရပါမည်။ Tbl_MMProverbs JSON မှ ထုတ်ပြနိုင်ပါသည်။ 
 3. မိမိကြိုက်နှစ်သက်ရာ စကားပုံတစ်ခုကို ရွေးချယ်လိုက်သောအခါ ထိုစကားပုံနှင့်သက်ဆိုင်သော အဓိပ္ပာယ်ဖွင့်ဆိုချက်များကို ဖော်ပြပေးရပါမည်။ Tbl_MMProverbs JSON မှ ထုတ်ပြနိုင်ပါသည်။
 
+Note
+> အထက်ပါ data များကို [MyanmarProverbs.json](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbs.json) မှ အသုံးပြုနိုင်ပါသည်။
+
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow1.PNG)
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow2.PNG)
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow3.PNG)
