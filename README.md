@@ -1,1 +1,1 @@
-# Myanmar-Proverbs
+# Myanmar Proverbs
