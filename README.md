@@ -21,7 +21,7 @@ Summary
 <table>
  <thead>
   <tr>
-   <th colspan="11">Contributors</th>
+   <th colspan="12">Contributors</th>
   </tr>
  </thead>
     <tbody>
