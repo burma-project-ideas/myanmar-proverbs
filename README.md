@@ -3,7 +3,7 @@
 
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/Authorimg.JPG) <br/>
-မူရင်း website ပိုရှင် ဆရာ ဒေါက်တာ ဝင်းသိန်းအား Credit ပေးပါသည်။
+မူရင်း ပိုင်ရှင် ဆရာ ဒေါက်တာ ဝင်းသိန်းအား Credit ပေးပါသည်။
 
 မူရင်း စကားပုံ Page အား ဒီ [mmproverbs.pro](https://www.mmproverbs.pro/2018/12/blog-post_18.html) တွင် သွားရောက်ကြည့်ရှု့နိုင်ပါသည်။
 
