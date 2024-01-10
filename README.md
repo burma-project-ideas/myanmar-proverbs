@@ -51,3 +51,4 @@ Summary
 - [William Phyo (Next.Js)](https://github.com/phyoko72/zodiac)
 - [Arkar Myo Min (JavaScript)](https://akmm-dev.github.io/Zodiac/)
 - [Kyaw Soe (Node.js)](https://github.com/ookyawsoe-dev/myanmar-proverbs)
+- [Perter (React.js)](https://github.com/peterlianpi/myanmarproverbs)
