@@ -41,14 +41,15 @@ Summary
     </tbody>
 </table>
 
+### Participants
+1. [Kaung Myat Thu (Flutter)](https://github.com/Kaung-Myat/Horoscope)
+2. [Kyaw Mg Mg Thu (JavaScript)](https://github.com/KyawMgMgThu/Zodaic_Sign)
+3. [William Phyo (Next.Js)](https://github.com/phyoko72/zodiac)
+4. [Arkar Myo Min (JavaScript)](https://akmm-dev.github.io/Zodiac/)
+5. [Kyaw Soe (Node.js)](https://github.com/ookyawsoe-dev/myanmar-proverbs)
+6. [Perter (React.js)](https://github.com/peterlianpi/myanmarproverbs)
+
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow1.PNG)
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow2.PNG)
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow3.PNG)
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsMindMap.PNG)  
-
-- [Kaung Myat Thu (Flutter)](https://github.com/Kaung-Myat/Horoscope)
-- [Kyaw Mg Mg Thu (JavaScript)](https://github.com/KyawMgMgThu/Zodaic_Sign)
-- [William Phyo (Next.Js)](https://github.com/phyoko72/zodiac)
-- [Arkar Myo Min (JavaScript)](https://akmm-dev.github.io/Zodiac/)
-- [Kyaw Soe (Node.js)](https://github.com/ookyawsoe-dev/myanmar-proverbs)
-- [Perter (React.js)](https://github.com/peterlianpi/myanmarproverbs)
