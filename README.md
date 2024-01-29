@@ -48,7 +48,7 @@ Summary
 4. [Arkar Myo Min (JavaScript)](https://akmm-dev.github.io/Zodiac/)
 5. [Kyaw Soe (Node.js)](https://github.com/ookyawsoe-dev/myanmar-proverbs)
 6. [Perter (React.js)](https://github.com/peterlianpi/myanmarproverbs)
-7. [Zarmani (Nodejs)](https://github.com/AiraSan/myanmarProverb)
+7. [Zarmani (Node.js)](https://github.com/AiraSan/myanmarProverb)
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow1.PNG)
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow2.PNG)
