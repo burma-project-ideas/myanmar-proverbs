@@ -49,6 +49,7 @@ Summary
 5. [Kyaw Soe (Node.js)](https://github.com/ookyawsoe-dev/myanmar-proverbs)
 6. [Perter (React.js)](https://github.com/peterlianpi/myanmarproverbs)
 7. [Zarmani (Node.js)](https://github.com/AiraSan/myanmarProverb)
+8. [Phyo Wunna Kyaw (React + Vite)](https://github.com/Phyowunnakyaw/Myanmar-Proverbs)
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow1.PNG)
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Proverbs/blob/main/MyanmarProverbsFlow2.PNG)
