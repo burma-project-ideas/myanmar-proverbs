@@ -35,7 +35,7 @@ Summary
            <td><a href="https://github.com/myatphonekhant-developer"><img src="https://github.com/myatphonekhant-developer.png" width="60px;"/></a></td>
            <td><a href="https://github.com/myatphonethant-dev"><img src="https://github.com/myatphonethant-dev.png" width="60px;"/></a></td>
            <td><a href="https://github.com/OatSoeK"><img src="https://github.com/OatSoeK.png" width="60px;"/></a></td>
-           <td><a href="https://github.com/Rasunon-Soare"><img src="https://github.com/Rasunon-Soare.png" width="60px;"/></a></td>
+           <td><a href="https://github.com/naykhantkyaw-coding"><img src="https://github.com/naykhantkyaw-coding.png" width="60px;"/></a></td>
            <td><a href="https://github.com/thukhachanthar"><img src="https://github.com/thukhachanthar.png" width="60px;"/></a></td>
         </tr>
     </tbody>
